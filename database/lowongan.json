@@ -1,0 +1,232 @@
+[
+  {
+    "perusahaan": "PT The Master Steel Mfc",
+    "posisi": "IT Developer Microsoft Dynamics",
+    "lokasi": "Menteng, Jakarta",
+    "gaji": "Rp 5.000.000 – Rp 6.000.000 per bulan",
+    "tipe_pekerjaan": "Paruh Waktu",
+    "kategori": "Teknologi Informasi",
+    "industri": "Manufaktur",
+    "tanggal_ditayangkan": "2 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Telkomsel Digital Ecosystem",
+    "posisi": "Full Stack Developer (ReactJS & NodeJS)",
+    "lokasi": "Jakarta Selatan",
+    "gaji": "Rp 8.000.000 – Rp 12.000.000 per bulan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Developer/Programmer",
+    "industri": "Telekomunikasi",
+    "tanggal_ditayangkan": "6 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Mitra Integrasi Informatika",
+    "posisi": "Cloud Solution Architect",
+    "lokasi": "Surabaya, Jawa Timur",
+    "gaji": "Rp 15.000.000 – Rp 20.000.000 per bulan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Arsitek Teknologi",
+    "industri": "Teknologi Informasi",
+    "tanggal_ditayangkan": "5 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Sagara Technology",
+    "posisi": "Junior DevOps Engineer",
+    "lokasi": "Bandung, Jawa Barat",
+    "gaji": "Rp 6.000.000 – Rp 8.000.000 per bulan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Teknik Infrastruktur",
+    "industri": "Teknologi Informasi",
+    "tanggal_ditayangkan": "3 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Fintek Integrasi Digital",
+    "posisi": "Senior Mobile Developer",
+    "lokasi": "Denpasar, Bali",
+    "gaji": "Tidak disebutkan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Developer/Programmer",
+    "industri": "Keuangan Teknologi",
+    "tanggal_ditayangkan": "10 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Reconnect Digital Indonesia",
+    "posisi": "AI Data Scientist",
+    "lokasi": "Jakarta Barat",
+    "gaji": "Rp 10.000.000 – Rp 13.000.000 per bulan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Ilmu Data",
+    "industri": "Teknologi Informasi",
+    "tanggal_ditayangkan": "4 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Aplikasi Karya Anak Bangsa (Gojek)",
+    "posisi": "Senior iOS Developer",
+    "lokasi": "Jakarta Selatan",
+    "gaji": "Tidak disebutkan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Developer/Programmer",
+    "industri": "Teknologi Informasi",
+    "tanggal_ditayangkan": "2 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Gramedia Asri Media",
+    "posisi": "Product Designer (UI/UX)",
+    "lokasi": "Jakarta Barat",
+    "gaji": "Rp 7.000.000 – Rp 9.000.000 per bulan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Desain Produk",
+    "industri": "Media",
+    "tanggal_ditayangkan": "8 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Digital Niaga Nusantara",
+    "posisi": "Backend Engineer",
+    "lokasi": "Jakarta Pusat",
+    "gaji": "Rp 12.000.000 – Rp 15.000.000 per bulan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Teknik Perangkat Lunak",
+    "industri": "Teknologi Informasi",
+    "tanggal_ditayangkan": "1 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Xendit Technologies",
+    "posisi": "Frontend Engineer (ReactJS)",
+    "lokasi": "Yogyakarta",
+    "gaji": "Rp 10.000.000 – Rp 14.000.000 per bulan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Teknik Perangkat Lunak",
+    "industri": "Keuangan Teknologi",
+    "tanggal_ditayangkan": "6 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Radian Solusi Integral",
+    "posisi": "Senior Developer",
+    "lokasi": "Jakarta Selatan, Jakarta Raya",
+    "gaji": "Rp 12.000.000 – Rp 15.000.000 per bulan",
+    "tipe_pekerjaan": "Kontrak",
+    "kategori": "Developer/Programmer",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "2 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT. Tiki Jalur Nugraha Ekakurir (JNE)",
+    "posisi": "Financial Software Engineer",
+    "lokasi": "Jakarta Raya",
+    "gaji": "Rp 10.000.000 – Rp 14.000.000 per bulan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Audit Sistem Akuntansi & IT",
+    "industri": "Akuntansi",
+    "tanggal_ditayangkan": "1 jam yang lalu"
+  },
+  {
+    "perusahaan": "FinShot, Inc.",
+    "posisi": "Deep Learning Researcher - AI Programmer",
+    "lokasi": "Jakarta Raya",
+    "gaji": "Rp 8.000.000 – Rp 11.000.000 per bulan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Peneliti AI",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "1 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Adi Data Informatika",
+    "posisi": "Middle Fullstack Developer",
+    "lokasi": "Jakarta Raya",
+    "gaji": "Kompetitif",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Developer/Programmer",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "10 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Asuransi Jiwa Astra",
+    "posisi": "Developer (Technical Leader)",
+    "lokasi": "Jakarta Selatan, Jakarta Raya",
+    "gaji": "Tidak disebutkan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Developer/Programmer",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "5 jam yang lalu"
+  },
+  {
+    "perusahaan": "Serial Microelectronics Pte Ltd",
+    "posisi": "Senior .NET Developer",
+    "lokasi": "Jakarta Raya",
+    "gaji": "Tidak disebutkan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Developer/Programmer",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "12 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT BCI Central Indonesia",
+    "posisi": "Senior Backend Engineer (.NET)",
+    "lokasi": "Jakarta Selatan, Jakarta Raya",
+    "gaji": "Tidak disebutkan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Teknik – Perangkat Lunak",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "5 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Solusi Transportasi Indonesia",
+    "posisi": "Senior Software Engineer, Android - Fulfilment",
+    "lokasi": "Kebayoran Lama, Jakarta Raya",
+    "gaji": "Tidak disebutkan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Developer/Programmer",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "7 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Michael Page Internasional Indonesia",
+    "posisi": "Project Lead Engineer - Automation (DCS Software)",
+    "lokasi": "Jakarta Raya",
+    "gaji": "Tidak disebutkan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Teknik Manajemen Proyek",
+    "industri": "Teknik",
+    "tanggal_ditayangkan": "3 hari yang lalu"
+  },
+  {
+    "perusahaan": "CP Axtra Public Company Limited",
+    "posisi": "Backend Engineer, Digital Venture - Fully REMOTE",
+    "lokasi": "Jakarta Raya",
+    "gaji": "Tidak disebutkan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Teknik – Perangkat Lunak",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "18 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Teknologi Merlin Sejahtera",
+    "posisi": "Java Developer",
+    "lokasi": "Jakarta Barat, Jakarta Raya",
+    "gaji": "Tidak disebutkan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Developer/Programmer",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "19 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Inovasi Dunia Gim",
+    "posisi": "Senior Backend Developer",
+    "lokasi": "Tangerang, Banten",
+    "gaji": "Rp 10.000.000 – Rp 12.000.000 per bulan",
+    "tipe_pekerjaan": "Penuh Waktu",
+    "kategori": "Developer/Programmer",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "4 hari yang lalu"
+  },
+  {
+    "perusahaan": "PT Akseleran Keuangan Inklusif Indonesia",
+    "posisi": "Backend Developer Intern",
+    "lokasi": "Jakarta",
+    "gaji": "Tidak disebutkan",
+    "tipe_pekerjaan": "Magang",
+    "kategori": "Developer/Programmer",
+    "industri": "Teknologi Informasi & Komunikasi",
+    "tanggal_ditayangkan": "1 hari yang lalu"
+  }
+]
